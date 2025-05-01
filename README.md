@@ -10,7 +10,7 @@ This project explores Spotify music trends over the years using a visually rich 
 ## 📊 Live Dashboard Page
 
 🔗 **Interactive Power BI Dashboard (Download & Preview)**  
-👉 [https://kasra-noorbakhsh.github.io/Spotify-Dashboard/](https://kasra-noorbakhsh.github.io/Spotify-Dashboard/)
+👉 [https://kasra-noorbakhsh.github.io/Spotify-Dashboard/](https://kasra-noorbakhsh.github.io/Spotify-Dataset/)
 
 > 📝 Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
 

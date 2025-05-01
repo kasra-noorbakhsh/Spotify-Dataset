@@ -1,6 +1,6 @@
 # 🎵 Spotify Music Trends Dashboard
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Site-Online-green?logo=github)](https://kasra-noorbakhsh.github.io/Spotify-Dashboard/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Site-Online-green?logo=github)](https://kasra-noorbakhsh.github.io/Spotify-Dataset/)
 [![Power BI](https://img.shields.io/badge/View%20on-Power%20BI-blue?logo=powerbi)](#)
 
 This project explores Spotify music trends over the years using a visually rich **Power BI Dashboard** hosted via **GitHub Pages**.
